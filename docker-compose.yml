@@ -12,7 +12,7 @@ services:
       labels:
         - traefik.frontend.rule=Host:python-basic-training.${DOMAIN}
         - traefik.enable=true
-        - traefik.port=80
+        - traefik.port=8000
         - traefik.tags=traefik-public
         - traefik.docker.network=traefik-public
         - traefik.redirectorservice.frontend.entryPoints=http
