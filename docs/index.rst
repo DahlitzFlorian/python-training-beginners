@@ -9,6 +9,9 @@ Welcome to Python Basics Training's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
+
+   variables
 
 
 
