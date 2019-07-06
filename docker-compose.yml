@@ -3,14 +3,14 @@ version: '3.3'
 services:
   python-basic-training:
     build: ./
-    image: python-basic-training:latest
+    image: python-training-beginners:latest
     networks:
       - default
       - traefik-public
     deploy:
       replicas: 1
       labels:
-        - traefik.frontend.rule=Host:python-basic-training.${DOMAIN}
+        - traefik.frontend.rule=Host:python-training-beginners.${DOMAIN}
         - traefik.enable=true
         - traefik.port=8000
         - traefik.tags=traefik-public
