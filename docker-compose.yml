@@ -1,0 +1,24 @@
+version: '3.3'
+
+services:
+  python-basic-training:
+    build: ./
+    image: python-basic-training:latest
+    networks:
+      - default
+      - traefik-public
+    deploy:
+      replicas: 1
+      labels:
+        - traefik.frontend.rule=Host:python-basic-training.${DOMAIN}
+        - traefik.enable=true
+        - traefik.port=80
+        - traefik.tags=traefik-public
+        - traefik.docker.network=traefik-public
+        - traefik.redirectorservice.frontend.entryPoints=http
+        - traefik.redirectorservice.frontend.redirect.entryPoint=https
+        - traefik.webservice.frontend.entryPoints=https
+
+networks:
+  traefik-public:
+    external: true
