@@ -9,3 +9,6 @@ __pycache__/
 # OSX
 .DS_Store
 */.DS_Store
+
+# Build
+docs/_build_html
