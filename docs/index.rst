@@ -11,6 +11,7 @@ Welcome to Python Basics Training's documentation!
    :caption: Contents:
    :numbered:
 
+   data_types
    variables
 
 
