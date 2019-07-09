@@ -30,6 +30,7 @@ author = 'Florian Dahlitz'
 # ones.
 extensions = [
     'recommonmark',
+    'sphinx_markdown_tables',
 ]
 
 # Suffix Mapping
