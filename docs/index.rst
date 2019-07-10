@@ -13,6 +13,7 @@ Welcome to Python Basics Training's documentation!
 
    data_types
    variables
+   operators
 
 
 
