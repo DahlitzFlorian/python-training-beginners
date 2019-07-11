@@ -16,6 +16,7 @@ Welcome to Python Basics Training's documentation!
    variables
    operators
    conditional_statements
+   loops
 
 
 
