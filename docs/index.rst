@@ -18,6 +18,7 @@ Welcome to Python Training: Beginners documentation!
    conditional_statements
    loops
    exception_handling
+   functions
 
 
 
