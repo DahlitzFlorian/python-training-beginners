@@ -20,6 +20,7 @@ Welcome to Python Training: Beginners documentation!
    exception_handling
    functions
    object_oriented
+   further_resources
 
 
 
