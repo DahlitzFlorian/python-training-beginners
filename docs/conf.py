@@ -18,7 +18,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'Python Basics Training'
+project = 'Python Training: Beginners'
 copyright = '2019, Florian Dahlitz'
 author = 'Florian Dahlitz'
 
