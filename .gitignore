@@ -12,3 +12,6 @@ __pycache__/
 
 # Build
 docs/_build_html
+
+# Presentation
+*.pptx
