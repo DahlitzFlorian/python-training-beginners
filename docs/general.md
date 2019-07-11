@@ -32,6 +32,21 @@ Example:
 ```
 
 
+## Execution
+
+If you want to run a Python file via command-line, simply run:
+
+```shell
+$ python <filename>
+```
+
+E.g.:
+
+```shell
+$ python my_file.py
+```
+
+
 ## Comments
 
 To write a comment, just put a `#` symbol in front of it.
