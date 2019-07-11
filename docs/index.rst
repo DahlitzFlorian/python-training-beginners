@@ -17,6 +17,7 @@ Welcome to Python Basics Training's documentation!
    operators
    conditional_statements
    loops
+   exception_handling
 
 
 
