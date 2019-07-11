@@ -1,0 +1,3 @@
+# DrawIO-files are stored among other images for later changes.
+# However, they should not be copied into a container
+*.drawio
