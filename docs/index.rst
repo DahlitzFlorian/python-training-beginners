@@ -19,6 +19,7 @@ Welcome to Python Training: Beginners documentation!
    loops
    exception_handling
    functions
+   object_oriented
 
 
 
