@@ -61,3 +61,4 @@ Rather, the designated block is executed repeatedly as long as some condition is
 - [Python "for" Loops (Definite Iteration)](https://realpython.com/python-for-loop/)
 - [Python "while" Loops (Indefinite Iteration)](https://realpython.com/python-while-loop/)
 - [How to Iterate Through a Dictionary in Python](https://realpython.com/iterate-through-dictionary-python/)
+- [The Python range() Function (Guide)](https://realpython.com/python-range/)
