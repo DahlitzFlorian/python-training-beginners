@@ -47,6 +47,16 @@ $ python my_file.py
 ```
 
 
+## Naming Conventions
+
+[PEP 8](https://www.python.org/dev/peps/pep-0008/) is the *Style Guide for Python Code*.
+It not only specifies code formatting and programming recommondations, but also [naming conventions](https://www.python.org/dev/peps/pep-0008/#naming-conventions).
+You should definitely check it out.
+
+> **Note:** As described in the previous paragraph, PEP 8 does also specify code formatting guidelines.
+> However, if you want to use a code formatter, I can highly recommend [Black](https://github.com/python/black).
+
+
 ## Comments
 
 To write a comment, just put a `#` symbol in front of it.
