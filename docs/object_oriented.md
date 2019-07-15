@@ -10,3 +10,4 @@ Make sure to check out the [Further Resources](#further-resources) section as it
 - [Lesson: Object-Oriented Programming Concepts](https://docs.oracle.com/javase/tutorial/java/concepts/)
 - [Object-Oriented Programming in Python](https://python-textbok.readthedocs.io/en/1.0/Object_Oriented_Programming.html)
 - [Object-Oriented Programming in Python vs Java](https://realpython.com/oop-in-python-vs-java/)
+- [3.3. Special method names](https://docs.python.org/3/reference/datamodel.html#special-method-names)
