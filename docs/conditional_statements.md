@@ -105,6 +105,29 @@ else:
 > That's the beauty of Python!
 
 
+## Conditional Expression
+
+A conditional expression is comparable to the ternary-operator, which you can find in other languages.
+In it's simples form, the Python conditional expression (or conditional operator or ternary operator) looks like this:
+
+```python
+<expr1> if <conditional_expr> else <expr2>
+```
+
+`conditional_expr` is evaluated first.
+If it evaluates to `True`, then `expr1` is evaluated and the program flow continues.
+However, if it evaluates to `False`, then `expr2` is evaluated.
+
+```python
+>>> 5 if 5 < 3 else 3
+3
+>>> "Hello World" if True else False
+'Hello World'
+```
+
+You can find more information about Python's conditional expression in the resources listed below.
+
+
 ## Further Resources
 
 - [Conditional Statements in Python](https://realpython.com/python-conditional-statements/)
