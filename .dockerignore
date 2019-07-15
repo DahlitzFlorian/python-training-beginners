@@ -5,3 +5,7 @@
 # All files related to the presentation are not meant to be part
 # of the final image
 presentation/
+
+# Files contained in the code directory are not related to the
+# final Docker image and are therefore ignored
+code/
