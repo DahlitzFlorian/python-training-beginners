@@ -1,4 +1,4 @@
-# This is a possible solution for exercise_04.py
+# This is a possible solution for exercise_05.py
 def fibonacci(number):
     i = 1
 
