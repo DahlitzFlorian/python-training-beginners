@@ -24,6 +24,10 @@ The initiators (Bob and Julian) started this platform to learn Python on their o
 They created challenges for each other and tried to solve them.
 Eventually, the made it public for everyone, so that you can learn together with them!
 
+**Udemy Course**: [The Python Mega Course](https://www.udemy.com/the-python-mega-course/) is an Udemy course, where you build ten real world applications.
+I did this course in summer 2018 and can recommend it.
+However, the course might be too intermediate if you are learning to code.
+
 
 [pythondocs]: https://docs.python.org/3/
 [realpython]: https://realpython.com/
